@@ -114,6 +114,11 @@ Ustanovení § 2 je klíčem k systematickému výkladu celého zákona: odstave
 
 Ustanovení § 3 je definičním základem celého dílu o asistované reprodukci. Odstavec 1 definuje asistovanou reprodukci jako soubor metod a postupů zahrnujících odběr zárodečných buněk, manipulaci s nimi, vznik lidského embrya mimotělním oplodněním a manipulaci s embryi (včetně jejich uchovávání), a to výhradně za účelem umělého oplodnění ženy. Zákon váže přípustnost asistované reprodukce na dva alternativní důvody: a) zdravotní důvody neplodnosti (kumulativně nízká pravděpodobnost přirozeného otěhotnění/donošení a neúspěšnost či nadějnost jiné léčby), nebo b) riziko přenosu geneticky podmíněné nemoci či vady, řešené časným genetickým vyšetřením embrya. Tím zákon vylučuje tzv. sociální indikace (např. čistě plánovací důvody bez zdravotního podkladu) a fixuje asistovanou reprodukci jako léčebný, nikoli svobodně volitelný výkon. Odstavce 2–3 definují zárodečné buňky (vajíčka a spermie) a umělé oplodnění ve dvou formách — inseminaci (zavedení spermií do pohlavních orgánů ženy) a transfer embrya vzniklého mimotělním oplodněním. Odstavec 4 taxativně vymezuje přípustné zdroje zárodečných buněk: vlastní vajíčka ženy, spermie muže z páru, nebo zárodečné buňky anonymního dárce, přičemž pro anonymního dárce stanoví přísné věkové hranice (žena 18–35 let, muž 18–40 let) odůvodněné kvalitou zárodečných buněk a minimalizací zdravotních rizik. Odstavec 5 pak stanoví účelové omezení nakládání se zárodečnými buňkami a embryi (výhradně pro umělé oplodnění), s výjimkou nadbytečných embryí, která lze za zákonem stanovených podmínek použít pro výzkum na lidských kmenových embryonálních buňkách podle zvláštního zákona.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 4020/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/25F08E48582C2227C125828D003B7F75?openDocument) — 21. 2. 2018, kat. A
+  > „Poskytovatel, kterému bylo uděleno oprávnění k poskytování zdravotních služeb v oboru reprodukční medicína, není povinen dokončit umělé oplodnění spojením zárodečné buňky žalobkyně a kryokonzervovaných spermií jejího zemřelého manžela"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Pár žádá o umělé oplodnění nikoli ze zdravotních důvodů neplodnosti, ale proto, že žena je v pokročilém věku a chce si „pojistit" možnost těhotenství do budoucna prostřednictvím zamražení embryí bez aktuální diagnózy neplodnosti; poskytovatel váhá, zda smí výkon provést. **2. Právní otázka.** Naplňuje čistě preventivní/plánovací důvod bez prokázané neplodnosti podmínky § 3 odst. 1 písm. a)? **3. Použitelné právo.** § 3 odst. 1 písm. a) body 1 a 2 SpZS. **4. Subsumpce.** Zákon vyžaduje kumulativní naplnění nízké pravděpodobnosti přirozeného otěhotnění/donošení a neúspěšnosti jiné léčby; prostá preference pozdějšího těhotenství bez zdravotní indikace tyto podmínky nenaplňuje. **5. Řešení.** Poskytovatel nesmí asistovanou reprodukci provést, dokud není zdravotní indikace (neplodnost, resp. genetické riziko dle písm. b)) lékařsky doložena. **6. Varianty.** Jinak by byla situace posouzena, pokud by šlo o uchování zárodečných buněk před onkologickou léčbou snižující plodnost (tzv. fertility preservation) — to však spadá pod jinou právní úpravu (uchovávání tkání a buněk), nikoli pod aktuální provedení asistované reprodukce podle § 3.
@@ -143,6 +148,11 @@ Ustanovení § 3 je definičním základem celého dílu o asistované reprodukc
 **Výklad:**
 
 Ustanovení § 4 stanoví personální/institucionální podmínku poskytování asistované reprodukce: výkon smí provádět pouze poskytovatel s oprávněním v oboru reprodukční medicína, případně — jde-li výlučně o inseminaci podle § 3 odst. 3 písm. a) — poskytovatel s oprávněním v oboru gynekologie a porodnictví. Jde o odbornostní pojistku odrážející rozdílnou náročnost jednotlivých metod: zatímco inseminace je běžným gynekologickým výkonem, mimotělní oplodnění a manipulace s embryi vyžadují specializované pracoviště reprodukční medicíny.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 4020/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/25F08E48582C2227C125828D003B7F75?openDocument) — 21. 2. 2018, kat. A
+  > „Poskytovatel, kterému bylo uděleno oprávnění k poskytování zdravotních služeb v oboru reprodukční medicína, není povinen dokončit umělé oplodnění spojením zárodečné buňky žalobkyně a kryokonzervovaných spermií jejího zemřelého manžela"
 
 #### F. Kazuistika
 
@@ -203,6 +213,11 @@ Ustanovení § 5 stanoví dvě další podmínky přípustnosti asistované repr
 **Výklad:**
 
 Ustanovení § 6 stanoví osobní a formální předpoklady na straně příjemkyně a neplodného páru. Odstavec 1 zavádí horní věkovou hranici ženy pro provedení umělého oplodnění (nepřekročení 49 let v jejím plodném věku) a formalizuje žádost — musí být písemná, podaná společně ženou a mužem tvořícími „neplodný pár", a nesmí být starší 6 měsíců; žádost je součástí zdravotnické dokumentace. Časové omezení platnosti žádosti reaguje na to, že zdravotní stav a okolnosti páru se mohou v čase měnit, a vynucuje pravidelné obnovení informovaného rozhodnutí. Odstavec 2 pak stanoví zákaz provedení umělého oplodnění u páru, jehož příbuzenský vztah by jinak vylučoval uzavření manželství (incestní překážka) — jde o promítnutí obecného zákazu příbuzenských svazků i do oblasti asistované reprodukce, bez ohledu na to, že mezi mužem a ženou fakticky nemusí jít o manželství.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 4020/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/25F08E48582C2227C125828D003B7F75?openDocument) — 21. 2. 2018, kat. A
+  > „Poskytovatel, kterému bylo uděleno oprávnění k poskytování zdravotních služeb v oboru reprodukční medicína, není povinen dokončit umělé oplodnění spojením zárodečné buňky žalobkyně a kryokonzervovaných spermií jejího zemřelého manžela"
 
 #### F. Kazuistika
 
@@ -279,6 +294,11 @@ Ustanovení § 7 upravuje zdravotní a osobní způsobilost osob zapojených do 
 **Výklad:**
 
 Ustanovení § 8 upravuje informovaný souhlas jako podmínku každého úkonu asistované reprodukce a zpřísňuje jej oproti obecnému režimu ZZS. Odstavec 1 ukládá poskytovateli povinnost před zahájením poučit neplodný pár o povaze metod, trvalých následcích, rizicích a způsobu nakládání s nadbytečnými embryi včetně nákladů a doby uskladnění, jakož i o pravidlech určování rodičovství podle občanského zákoníku; pár má právo na přítomnost svědka a záznam o poučení podepisují pár, ošetřující lékař a případně svědek. Odstavec 2 vyžaduje na základě tohoto poučení písemný souhlas s provedením asistované reprodukce, který musí být opakovaně udělen před každým jednotlivým provedením umělého oplodnění (nestačí jednorázový souhlas na počátku léčebného cyklu). Odstavec 3 pak doplňuje požadavek souhlasu i u jednotlivých dílčích výkonů asistované reprodukce prováděných přímo na příjemkyni, se záznamem v dokumentaci podepsaným ošetřujícím lékařem i příjemkyní. Tato vícevrstvá struktura souhlasu (poučení → obecný souhlasu s AR → souhlas s každým umělým oplodněním → souhlas s dílčími výkony) odráží skutečnost, že jde o dlouhodobý, opakovaný a fyzicky i psychicky náročný proces, u něhož je nutné průběžně ověřovat trvání svobodné vůle páru.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 4020/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/25F08E48582C2227C125828D003B7F75?openDocument) — 21. 2. 2018, kat. A
+  > „Poskytovatel, kterému bylo uděleno oprávnění k poskytování zdravotních služeb v oboru reprodukční medicína, není povinen dokončit umělé oplodnění spojením zárodečné buňky žalobkyně a kryokonzervovaných spermií jejího zemřelého manžela"
 
 #### F. Kazuistika
 
@@ -2666,6 +2686,11 @@ Přezkum je vázán na spis a podklady předané poskytovatelem (odst. 1) — sp
 Výsledkem přezkumu jsou tři možné výroky (odst. 2): zamítnutí návrhu a potvrzení posudku, zrušení posudku s vrácením věci k vydání nového, nebo prosté zrušení posudku bez vrácení. Lhůta 30 pracovních dnů je pořádková, ale prodloužitelná o dalších 15 dnů ve zvlášť odůvodněných případech; navíc odstavec 3 umožňuje přerušení běhu lhůty při vyžádání doplnění podkladů nebo odborného stanoviska. Zdůraznění smlouvy podle § 54 odst. 2 písm. a) a § 57a mezi podklady, které lze doplnit, dokládá provázanost posudkové agendy s organizací pracovnělékařských služeb — správní orgán tak může ověřovat i to, zda posudek vydal poskytovatel skutečně smluvně oprávněný.
 
 Proti rozhodnutí vydanému podle odstavce 2 není přípustné odvolání (odst. 4); zákon tím sleduje rychlost řízení, které má bezprostřední dopad na výkon práce, vzdělávání či jiné právem chráněné činnosti posuzované osoby. Tím není dotčena možnost správní žaloby ve správním soudnictví, postupuje-li se jinak podle správního řádu. Odstavec 5 pak brání opakovanému „přeposuzování" týchž skutečností poté, co byl posudek potvrzen: nové posouzení lze provést jen tehdy, je-li z aktuální lékařské prohlídky patrné, že povede pravděpodobně k jinému závěru — typicky při faktické změně zdravotního stavu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1096/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF9E3587DA3757F0C1258793001E434C?openDocument) — 26. 8. 2021, kat. A
+  > „Lékařský posudek vydaný poskytovatelem pracovnělékařských služeb a rozhodnutí příslušného správního orgánu, který lékařský posudek přezkoumává, nelze ani za právní úpravy účinné od 1. 11. 2017 považovat za rozhodnutí, z něhož by mohl soud bez dalšího vycházet v občanském soudním řízení ve smyslu ustanovení § 135 odst. 2 o. s. ř"
 
 #### F. Kazuistika
 
